@@ -1,0 +1,10 @@
+{
+  "imports": {
+    "d3": "./d3.js",
+    "dayjs": "./dayjs.js",
+    "es6-tween": "./es6-tween.js",
+    "scrollama": "./scrollama.js",
+    "three": "./three.js",
+    "three/examples/jsm/utils/BufferGeometryUtils.js": "./three/examples/jsm/utils/BufferGeometryUtils.js"
+  }
+}

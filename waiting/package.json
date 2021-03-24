@@ -1,0 +1,24 @@
+{
+  "name": "waiting-behind-bars-prototype",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^6.6.0",
+    "dayjs": "^1.10.4",
+    "es6-tween": "^5.5.11",
+    "live-server": "^1.2.1",
+    "scrollama": "^2.2.2",
+    "three": "^0.126.1"
+  },
+  "devDependencies": {
+    "snowpack": "^3.1.2"
+  }
+}
